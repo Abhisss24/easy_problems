@@ -22,4 +22,5 @@ int main() {
    else {
     cout<<"THE CHARACTER IS CONSONANT";
    }
+    return 0;
 }
