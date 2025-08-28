@@ -7,4 +7,5 @@ int main() {
         a=a+i;
     }
     cout<<"SUM OF 1ST 10 NATURAL NUMBERS IS : "<<a;
+    return 0;
 }
